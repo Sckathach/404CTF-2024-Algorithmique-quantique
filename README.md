@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>Algorithmique quantique - <i>Quantum computing</i></h1>
+    <img src="logo.png" style="width: 40%">
+    <h1>Algorithmique quantique - <i>Quantum computing</i></h1>
+    <p><b>Le 404 CTF : https://github.com/HackademINT/404CTF-2024</b></p>
+    <p><i><a href="#english-section">English part below</a></i></p>
 </div>
-
-[English part below](#english-section)
 
 ## Challenges
 - 🟦 Des trains superposés
